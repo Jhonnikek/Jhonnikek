@@ -1,6 +1,6 @@
 ### Hi there!  <img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif" width="25"/>
 
-I'm [**Jhonni**](), a Software Engineering student passionate about web development and backend technologies. I enjoy constantly improving my skills and exploring emerging tech to keep up with the latest trends.
+I'm [**Jhonni**](), a Software Engineering student passionate about open-source, automation and backend technologies. I enjoy constantly improving my skills and exploring emerging tech to keep up with the latest trends.
 
 ---
 
