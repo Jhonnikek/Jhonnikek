@@ -5,7 +5,7 @@ I'm [**Jhonni**](), a Software Engineering student passionate about open-source,
 ---
 
 <p align="left">
-  <strong>My main tools:</strong><br><br>
+  <strong>Tech stack</strong><br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js,html,tailwind,postgresql,docker,bash,git,linux" />
   </a>
